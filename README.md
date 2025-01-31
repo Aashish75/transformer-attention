@@ -1,6 +1,6 @@
 This project contains the following- 
 
--A loose implementation of the **attention mechanism**, from the "Attention Is All You Need Paper"
+-A loose implementation of the **attention mechanism**, from the "Attention Is All You Need" paper
 
 -**Sequence to sequence** translation using a **transformer**
 
